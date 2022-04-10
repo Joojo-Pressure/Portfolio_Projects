@@ -1,6 +1,6 @@
 # Portfolio_Projects
 
-This is my first attempt at a SQL project, and I'm glad I've been able to finally put it together.
+This is my first attempt at a SQL project, and I'm glad I've been able to finally put it together. I had some inspiration from Alex The Analysist's youtube channel.
 
 This a data exploration project with COVID 19 data from https://ourworldindata.org/covid-deaths. 
 
