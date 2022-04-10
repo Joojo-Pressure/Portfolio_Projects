@@ -1,4 +1,4 @@
--- Select Data that we are going to be using
+-- Select Data that to be used
 -- Covid Deaths Dataset
 select *
 From Portfolio_Project..Covid_Deaths$
