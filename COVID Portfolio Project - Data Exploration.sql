@@ -1,3 +1,8 @@
+/*
+Covid-19 Data Exploration with SQL
+Skills used: Aggregate Functions, CTE's, Temp Tables, Joins, Creating Views, Converting Data Types
+*/
+
 -- Select Data that to be used
 -- Covid Deaths Dataset
 select *
